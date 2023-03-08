@@ -2,7 +2,6 @@ SELECT count(*)
 FROM students
 WHERE cohort_id <= 3;
 
-
 -- Toggle Answer
 -- SELECT count(id)
 -- FROM students
